@@ -4,7 +4,7 @@
   Plugin URI: http://www.sandorkovacs.ro/simple-sticky-footer-wordpress-plugin/
   Description: Lightweight Sticky Footer plugin
   Author: Sandor Kovacs
-  Version: 1.2.0
+  Version: 1.0.0
   Author URI: http://sandorkovacs.ro/
  */
 
