@@ -4,8 +4,8 @@ License: GPLv2 or later
 Donate link: http://sandorkovacs84.wordpress.com/
 Tags: youtube, content generator, post
 Requires at least: 3.1.0
-Tested up to: 3.8.0
-Stable tag: 1.0.0
+Tested up to: 4.2.1
+Stable tag: 1.0.1
 
 
 Generate content from youtube.com.
@@ -52,6 +52,8 @@ Examples:  http://www.youtube.com/watch?v=fIk7eI4_2AI, This is my custom title
 
 == Changelog ==
 
+= 1.0.1 =
+* Test with WordPress 4.2.1
 
 = 1.0 =
 * First version.

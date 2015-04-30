@@ -1,20 +1,17 @@
 <?php
 /*
   Plugin Name: Simple Youtube Content
-  Plugin URI: http://www.sandorkovacs.ro/simple-sticky-footer-wordpress-plugin/
-  Description: Lightweight Sticky Footer plugin
+  Plugin URI: https://wordpress.org/plugins/youtube-content/
+  Description: Import youtube videos. Cover image of the video will be the post featured image 
   Author: Sandor Kovacs
-  Version: 1.0.0
-  Author URI: http://sandorkovacs.ro/
+  Version: 1.0.1
+  Author URI: http://sandorkovacs.ro/en/
  */
 
 /*
  * 
  * 
  * 
-  http://www.youtube.com/watch?v=j6Pvsvxfg1c
-  http://www.youtube.com/watch?v=KZkbE_AFOe8
-  http://www.youtube.com/watch?v=QyflgtkOXVo
  */
 
 add_action('admin_init', 'simple_youtube_content_init');
